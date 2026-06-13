@@ -30,7 +30,7 @@ We're always excited about new challenges and interesting ideas. If you need a w
 
 Meet the Team
 
-- Founder: @espadawo
+- Founder: [measora](https://github.com/espadawo)
 
 ## Contact Us 
 
